@@ -16,14 +16,21 @@ AI_Art_Therapist lets you draw a picture and AI_Art_Therapist will analyze the p
 
 # Quick Start
 ```
-conda create -n "therapy" python=3.12
+conda create -n therapy python=3.12
 conda activate therapy
+
+pip install langchain
+pip install --upgrade --quiet langchain-nvidia-ai-endpoints
+pip install gradio
 ```
+
 ```
 cd /
 python -m http.server
 ```
+
 ```
+git clone https://github.com/YuhyunNa/AI_Art_Therapist.git
 cd AI_Art_Therapist
-python ai_therapist.py
+python ai_therapist.py 
 ```
