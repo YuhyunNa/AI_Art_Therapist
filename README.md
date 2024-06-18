@@ -12,6 +12,7 @@ AI_Art_Therapist lets you draw a picture and AI_Art_Therapist will analyze the p
 
 
 # Demo
+- click the image below to play the video.
 [![Watch the video](https://github.com/YuhyunNa/AI_Art_Therapist/assets/82826442/ad3a4373-f861-4cfe-bc28-87ec53f02c0c)](https://youtu.be/MjL734oDiKY?si=pyHSDN92rEyTuqlB)
 
 
