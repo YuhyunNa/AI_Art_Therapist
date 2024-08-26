@@ -1,6 +1,9 @@
 # AI_Art_Therapist
 
 ### This repo is for Generative AI Agents Developer Contest by NVIDIA and LangChain
+AI_Art_Therapist is designed to provide emotional healing by combining the power of AI technology with the principles of art therapy. I’ve obtained a certificate of accomplishment and been selected as a winner in the “Generative AI Agents Developer Contest” by NVIDIA and LangChain! Out of many talented developers around 31 countries, my “AI_Art_Therapist” project was ranked between 14th and 113th place.
+
+![NvidiaLangChainCertificate](https://github.com/user-attachments/assets/aabd3305-0bcf-42ea-b78e-efa25ddc3eba)
 
 This repo is LLM-powered applications utilizing LangChain and NVIDIA APIs.
 
